@@ -70,9 +70,9 @@ python main.py
 
 | | Binario | Arranque | Conversion | RAM |
 |---|---------|----------|------------|-----|
-| ARM64 ASM | **59 KB** | <50 ms | ~5 ms | 85 MB |
-| C + SDL2 | 211 KB | <50 ms | ~5 ms | 85 MB |
-| Pascal | 4.3 MB | <50 ms | ~15 ms | 85 MB |
+| ARM64 ASM | **59 KB** | **<50 ms** | **~5 ms** | 85 MB |
+| C + SDL2 | 211 KB | **<50 ms** | **~5 ms** | 85 MB |
+| Pascal | 4.3 MB | **<50 ms** | ~15 ms | 85 MB |
 | Python | 18 MB | ~2 s | 263 ms | 85 MB |
 | LISP | 51 MB | 10 ms | ~100 ms | 73 MB |
 
