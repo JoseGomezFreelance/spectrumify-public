@@ -1,0 +1,4 @@
+# Mark generated sample outputs so GitHub excludes them from language stats
+assets/samples/output/*.html linguist-generated=true
+assets/samples/output/*.gif linguist-generated=true
+assets/samples/output/*.scr linguist-generated=true
