@@ -75,6 +75,7 @@ archive/
 # Generated HTML files
 *.html
 !docs/**/*.html
+!assets/samples/output/*.html
 
 # mypy
 .mypy_cache/
